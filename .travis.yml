@@ -4,7 +4,7 @@ jdk: oraclejdk7
 env:
   global:
     - ANDROID_BUILD_TOOLS=build-tools-19.0.1
-    - PROJECT_NAME=message-app
+    - PROJECT_NAME=offtherecordapp-android
   matrix:
     - ANDROID_SDK=android-19 ANDROID_TARGET=android-19
 
